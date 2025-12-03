@@ -1,1 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resume</title>
+  <link rel="stylesheet" href="div_res_style.css" >
+  </head>
+<body>
+  <div class="header">
+    <h1>Tyler Williams</h1>
+    <div class="contact">
+      Email: tjw19@email.sc.edu | Location: Columbia, SC, USA
+    </div>
+    <hr>
+  </div>
+
+  <div class="section">
+    <div class="section-title">Education</div>
+    <div class="section-content">
+      <strong>UofSC Columbia</strong><br>
+      2025- <br>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">Work Experience</div>
+    <div class="section-content">
+      <strong>\YOUTH Leadership role</strong>, 
+      <ul>
+        <li>Led a design team to create social and life skills through sports and other materials for youth clients.</li>
+        <li>Collaborated with marketing to increase engagement </li>
+      </ul>
+
+      
+  <div class="section">
+    <div class="section-title">Skills</div>
+    <div class="section-content">
+      <ul>
+        <li>Design Tools: Adobe Photoshop, outlook,</li>
+        <li>Soft Skills: Creativity, Communication, Team Leadership</li>
+      </ul>
+    </div>
+  </div>
+</body>
+
+</html>
 
