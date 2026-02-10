@@ -1,1 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Personal Values</title>
+
+    <!-- Embedded CSS -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        h2 {
+            color: #2c3e50;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 20px auto;
+        }
+
+        main {
+            background-color: white;
+            padding: 20px;
+            margin: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Personal Values</h1>
+    </header>
+
+    <main>
+        <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee" alt="Path representing personal values">
+
+        <h2>1. Integrity</h2>
+        <p>
+            Integrity means being honest and doing the right thing even when no one is watching.
+            This value comes from my upbringing and observing role models who valued honesty.
+            Integrity is important to me because it builds trust and respect.
+            Without integrity, relationships and reputations can be damaged.
+        </p>
+
+        <h2>2. Discipline</h2>
+        <p>
+            Discipline is the ability to stay focused and committed to goals and responsibilities.
+            This value comes from personal routines, education, and learning the importance of self-control.
+            Discipline is important because it helps me stay organized and achieve long-term success.
+            Without discipline, it becomes easy to procrastinate and fall short of goals.
+        </p>
+
+        <h2>3. Respect</h2>
+        <p>
+            Respect means valuing others opinions, time, and differences.
+            This value comes from interacting with people from different backgrounds.
+            Respect is important because it creates healthy relationships and cooperation.
+            Without respect, conflicts and misunderstandings are more likely to occur.
+        </p>
+
+        <h2>4. Perseverance</h2>
+        <p>
+            Perseverance is the ability to keep going despite challenges.
+            I learned this value through personal struggles and academic challenges.
+            It is important because it helps me achieve long-term goals.
+            Without perseverance, giving up too easily can prevent success.
+        </p>
+    </main>
+</body>
+</html>
 
